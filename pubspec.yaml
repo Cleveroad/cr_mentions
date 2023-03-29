@@ -1,7 +1,7 @@
 name: cr_mentions
 description: A great package for mentioning people in texts in different ways
 
-version: 0.0.1
+version: 0.0.1+1
 homepage: https://github.com/Cleveroad/cr_mentions
 
 environment:
