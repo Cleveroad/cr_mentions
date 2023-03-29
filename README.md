@@ -1,5 +1,7 @@
 # cr_mentions
 
+<img src="https://raw.githubusercontent.com/Cleveroad/cr_mentions/master/screenshots/plugin_banner.png" width="100%">
+
 ## Table of contents
 
 - [Screenshots](#screenshots)
